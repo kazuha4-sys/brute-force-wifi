@@ -27,7 +27,7 @@ def executar_comandos():
     time.sleep(1)
     pyautogui.press('enter')
     time.sleep(1)
-    pyautogui.write('netsh wlan show profiles GLAUCIA key=clear')
+    pyautogui.write('netsh wlan show profiles #SEDUC_TABLET key=clear')
     time.sleep(1)
     pyautogui.press('enter')
     time.sleep(6)
