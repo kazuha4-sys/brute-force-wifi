@@ -1,3 +1,20 @@
-import pyautogui
+import pyautogui as pyau
+import time
 
-pyautogui.press(win)
+pyau.press(win)
+time.sleep(1)
+pyau.write(CMD)
+time.sleep(1)
+pyau.press(enter)
+time.sleep(1)
+pyau.write(color a)
+time.sleep(1)
+pyau.press(enter)
+time.sleep(1)
+pyau.write(Netsh wlan show profiles {nome da rede} Key=clear)
+time.sleep(1)
+pyau.press(enter)
+time.sleep(1)
+pyau.write(exit)
+time.sleep(1)
+pyau.press(enter)
