@@ -9,24 +9,24 @@ time = pip install time
 ## Como utilizar?
 
 Para utilizarmos esse script, você tera que ter que ter a versão mais recente do Python,uma IDE como vscode e um Terminal(cmd/prompt de comando),
------
+
 Pelo vscode:
+-
 1-Baixe o código e coloque numa pasta.
 
 2-Entre na pasta usando o botão direito
 
 3-selecione o arquivo em python e execute
------
 
 pelo Cmd:
-
+---
 1-Baixe o arquivo e coloque numa pasta
 
 2- Entre no CMD e coloque o seguinte comando:
 cd nome da pasta que você escolheu
 
 3- python e o nome do arquivo e clique enter
---
+
 
 
 
